@@ -54,7 +54,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ```bash
 git clone https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP
-cd ikigai-diligence
+cd ikigai_diligence
 ```
 
 ### 2. Install Dependencies

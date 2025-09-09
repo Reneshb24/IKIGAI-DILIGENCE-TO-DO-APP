@@ -13,7 +13,6 @@ It functions as a personal productivity assistant, allowing users to manage task
 * **User Authentication**: Signup/Login with secure credential storage.
 * **Task Management**: Add, edit, delete tasks, set deadlines, reminders, mark tasks as complete or pending, and track progress.
 * **Google Drive Sync**: Backup and restore JSON data, profile photos, and task-related files.
-* **Google Calendar Integration**: Automatically add deadlines and events to the calendar.
 * **Email Notifications**: Send welcome emails, reminders, birthday greetings, and weekly PDF reports.
 * **Weekly PDF Productivity Report**: Auto-generated using ReportLab summarizing task completion, pending tasks, and productivity trends.
 * **Profile Management**: Store and update user details, including profile photos.

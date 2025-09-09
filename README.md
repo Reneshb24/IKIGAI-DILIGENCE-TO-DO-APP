@@ -211,9 +211,6 @@ All functions integrate with background threads to ensure GUI responsiveness and
 * **Notification Page:**
   
     https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Notification%20Page.png
-* **Profile Info Page:**
-  
-    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Profile%20Info%20Page.png
 * **Add Task Page:**
   
     https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Add%20Task%20Page.png

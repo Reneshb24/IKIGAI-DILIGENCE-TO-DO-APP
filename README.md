@@ -193,6 +193,40 @@ All functions integrate with background threads to ensure GUI responsiveness and
 
 ---
 
+## Screenshots
+
+* **App Opening Screen:**
+  
+  https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Initial%20Screen.png
+* **Sign Up Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Sign%20Up%20Page.png
+* **Profile Info Collection Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Profile%20Info%20Collection%20Page.png
+* **Login Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Login%20page.png
+* **Main Home Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Main%20Home%20Page.png
+* **Notification Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Notification%20Page.png
+* **Profile Info Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Profile%20Info%20Page.png
+* **Add Task Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Add%20Task%20Page.png
+* **Load Task Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Load%20Task%20Page.png
+* **Chatbot Page:**
+  
+    https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Chatbot%20Page.png
+    
+
 ## Future Enhancements
 
 * Web dashboard version of Ikigai Diligence.

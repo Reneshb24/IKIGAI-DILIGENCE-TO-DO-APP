@@ -2,9 +2,9 @@
 
 ## Introduction
 
-**Ikigai Diligence** is a comprehensive **Python-based productivity and personal growth application** that combines personal task management with cloud backup, automated reporting, and intelligent reminders. Built with **Tkinter**, integrated with **Google Drive and Calendar APIs**, and equipped with **Gmail SMTP email support**, this application ensures that users stay productive, organized, and motivated.
+**Ikigai Diligence** is a comprehensive **Python-based productivity and personal growth application** that combines personal task management with cloud backup, automated reporting, and intelligent reminders. Built with **Tkinter**, integrated with **Google Drive APIs**, and equipped with **Gmail SMTP email support**, this application ensures that users stay productive, organized, and motivated.
 
-It functions as a personal productivity assistant, allowing users to manage tasks locally while syncing data securely with Google Drive, integrating deadlines with Google Calendar, and sending important notifications and weekly reports via email. The app is designed to be fully operational out-of-the-box once dependencies are installed and configuration is completed.
+It functions as a personal productivity assistant, allowing users to manage tasks locally while syncing data securely with Google Drive, and sending important notifications and weekly reports via email. The app is designed to be fully operational out-of-the-box once dependencies are installed and configuration is completed.
 
 ---
 
@@ -41,10 +41,9 @@ It functions as a personal productivity assistant, allowing users to manage task
 1. **Authentication**: Users create an account or login. Credentials are saved securely in `user_data.json`.
 2. **Task Management**: Users can create tasks with titles, descriptions, priority levels, and deadlines. Tasks can be edited, marked as complete, or deleted.
 3. **Google Drive Integration**: JSON files storing user data, tasks, profiles, feedback, and chatbot data are automatically synced with Google Drive.
-4. **Google Calendar Integration**: Task deadlines are automatically added to the user's Google Calendar to ensure timely reminders.
-5. **Email System**: Sends automated welcome emails, task reminders, birthday wishes, and weekly productivity reports.
-6. **Background Threads**: `threading` and `schedule` modules handle recurring reminders and weekly summary generation without interrupting the main GUI.
-7. **Chatbot Support**: Users can ask basic productivity questions, and the bot provides responses from pre-defined JSON datasets.
+4. **Email System**: Sends automated welcome emails, task reminders, birthday wishes, and weekly productivity reports.
+5. **Background Threads**: `threading` and `schedule` modules handle recurring reminders and weekly summary generation without interrupting the main GUI.
+6. **Chatbot Support**: Users can ask basic productivity questions, and the bot provides responses from pre-defined JSON datasets.
 
 ---
 
@@ -54,7 +53,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ```bash
 git clone https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP
-cd ikigai_diligence
+cd IKIGAI-DILIGENCE-TO-DO-APP
 ```
 
 ### 2. Install Dependencies

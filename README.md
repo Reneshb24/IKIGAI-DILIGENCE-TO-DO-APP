@@ -1,6 +1,6 @@
-# Ikigai Diligence
+# IKIGAI DILIGENCE
 
-## Introduction
+## Introduction:
 
 **Ikigai Diligence** is a comprehensive **Python-based productivity and personal growth application** that combines personal task management with cloud backup, automated reporting, and intelligent reminders. Built with **Tkinter**, integrated with **Google Drive APIs**, and equipped with **Gmail SMTP email support**, this application ensures that users stay productive, organized, and motivated.
 
@@ -8,7 +8,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ---
 
-## Features
+## Features:
 
 * **User Authentication**: Signup/Login with secure credential storage.
 * **Task Management**: Add, edit, delete tasks, set deadlines, reminders, mark tasks as complete or pending, and track progress.
@@ -21,7 +21,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ---
 
-## Modules Used
+## Modules Used:
 
 * **tkinter** → Graphical user interface creation.
 * **PIL (Pillow)** → Image loading, resizing, and display.
@@ -35,7 +35,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ---
 
-## How It Works
+## How It Works:
 
 1. **Authentication**: Users create an account or login. Credentials are saved securely in `user_data.json`.
 2. **Task Management**: Users can create tasks with titles, descriptions, priority levels, and deadlines. Tasks can be edited, marked as complete, or deleted.
@@ -46,7 +46,7 @@ It functions as a personal productivity assistant, allowing users to manage task
 
 ---
 
-## Setup Instructions
+## Setup Instructions:
 
 ### 1. Clone Repository
 
@@ -76,7 +76,7 @@ All files should remain in the same directory to ensure smooth functioning.
 
 ---
 
-## Google API Setup (Drive and Calendar)
+## Google API Setup (Drive and Calendar):
 
 ### 1. Create a Service Account
 
@@ -124,7 +124,7 @@ The app will automatically download them at startup, update locally, and upload 
 
 ---
 
-## Gmail App Password Setup
+## Gmail App Password Setup:
 
 ### 1. Create App Password
 
@@ -160,7 +160,7 @@ This ensures the application can send emails for reminders, notifications, and w
 
 ---
 
-## Running the App
+## Running the App:
 
 ```bash
 python Ikigai_diligence.py
@@ -172,7 +172,7 @@ python Ikigai_diligence.py
 
 ---
 
-## Key Functions and Details
+## Key Functions and Details:
 
 * **signup\_user()** → Registers new users, ensuring unique usernames.
 * **login\_user()** → Authenticates users with secure password validation.
@@ -191,7 +191,7 @@ All functions integrate with background threads to ensure GUI responsiveness and
 
 ---
 
-## Screenshots
+## Screenshots:
 
 * **App Opening Screen:**
   
@@ -222,7 +222,7 @@ All functions integrate with background threads to ensure GUI responsiveness and
     https://github.com/Reneshb24/IKIGAI-DILIGENCE-TO-DO-APP/blob/main/Chatbot%20Page.png
     
 
-## Future Enhancements
+## Future Enhancements:
 
 * Web dashboard version of Ikigai Diligence.
 * Mobile companion app for Android/iOS.
@@ -233,7 +233,7 @@ All functions integrate with background threads to ensure GUI responsiveness and
 
 ---
 
-## Security Notes
+## Security Notes:
 
 * Never commit real Gmail credentials or `credentials.json` to GitHub.
 * Dummy placeholders are included for safe public usage.
@@ -241,6 +241,6 @@ All functions integrate with background threads to ensure GUI responsiveness and
 
 ---
 
-## Author
+## Author:
 
 * Renesh B
